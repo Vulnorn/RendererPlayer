@@ -1,0 +1,15 @@
+C:\Program Files (x86)\VSProect\PrintPlayer\bin\Debug\net6.0\PrintPlayer.exe
+C:\Program Files (x86)\VSProect\PrintPlayer\bin\Debug\net6.0\PrintPlayer.deps.json
+C:\Program Files (x86)\VSProect\PrintPlayer\bin\Debug\net6.0\PrintPlayer.runtimeconfig.json
+C:\Program Files (x86)\VSProect\PrintPlayer\bin\Debug\net6.0\PrintPlayer.dll
+C:\Program Files (x86)\VSProect\PrintPlayer\bin\Debug\net6.0\PrintPlayer.pdb
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.csproj.AssemblyReference.cache
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.AssemblyInfoInputs.cache
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.AssemblyInfo.cs
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.dll
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\refint\PrintPlayer.dll
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.pdb
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.genruntimeconfig.cache
+C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\ref\PrintPlayer.dll
