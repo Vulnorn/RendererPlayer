@@ -13,3 +13,18 @@ C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\refint\PrintPlayer.
 C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.pdb
 C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\PrintPlayer.genruntimeconfig.cache
 C:\Program Files (x86)\VSProect\PrintPlayer\obj\Debug\net6.0\ref\PrintPlayer.dll
+C:\Users\1\Documents\GitHub\RendererPlayer\bin\Debug\net6.0\PrintPlayer.exe
+C:\Users\1\Documents\GitHub\RendererPlayer\bin\Debug\net6.0\PrintPlayer.deps.json
+C:\Users\1\Documents\GitHub\RendererPlayer\bin\Debug\net6.0\PrintPlayer.runtimeconfig.json
+C:\Users\1\Documents\GitHub\RendererPlayer\bin\Debug\net6.0\PrintPlayer.dll
+C:\Users\1\Documents\GitHub\RendererPlayer\bin\Debug\net6.0\PrintPlayer.pdb
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.csproj.AssemblyReference.cache
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.AssemblyInfo.cs
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.dll
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\refint\PrintPlayer.dll
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.pdb
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\PrintPlayer.genruntimeconfig.cache
+C:\Users\1\Documents\GitHub\RendererPlayer\obj\Debug\net6.0\ref\PrintPlayer.dll

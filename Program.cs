@@ -10,54 +10,44 @@ namespace ClassPlayer
         static void Main(string[] args)
         {
             Renderer renderer = new Renderer();
-            Player player = new Player(0, 0);
+            Player player = new Player(10, 10);
 
-            renderer.DrowPlayer(player.X, player.Y);
+            player.SetAvatar();
+            renderer.ShowPlayer(player);
         }
     }
 
     class Player
     {
-        private int _x;
-        private int _y;
-
-        public int X
-        {
-            get
-            {
-                return _x;
-            }
-            set
-            {
-                _x = value;
-            }
-        }
-
-        public int Y
-        {
-            get
-            {
-                return _y;
-            }
-            set
-            {
-                _y = value;
-            }
-        }
-
         public Player(int x, int y)
         {
             X = x;
             Y = y;
+            Avatar="$";
+        }
+
+        public int X { get; private set; }
+        public int Y { get; private set; }
+        public string Avatar { get; private set; }
+
+        public void SetAvatar()
+        {
+            Console.WriteLine($"Введите символ для аватара игрока.");
+            Avatar = Console.ReadLine();
+
+            if (Avatar=="")
+            {
+                Avatar = "$";
+            }
         }
     }
 
     class Renderer
     {
-        public void DrowPlayer(int x, int y, char ch = '$')
+        public void ShowPlayer(Player player)
         {
-            Console.SetCursorPosition(x, y);
-            Console.Write(ch);
+            Console.SetCursorPosition(player.X, player.Y);
+            Console.Write(player.Avatar);
         }
     }
 }

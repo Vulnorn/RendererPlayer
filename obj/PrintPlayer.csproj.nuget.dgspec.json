@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\PrintPlayer.csproj": {}
+    "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\PrintPlayer.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\PrintPlayer.csproj": {
+    "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\PrintPlayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\PrintPlayer.csproj",
+        "projectUniqueName": "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\PrintPlayer.csproj",
         "projectName": "PrintPlayer",
-        "projectPath": "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\PrintPlayer.csproj",
+        "projectPath": "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\PrintPlayer.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\obj\\",
+        "outputPath": "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

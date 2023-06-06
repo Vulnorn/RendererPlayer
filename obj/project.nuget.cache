@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ESgHY0yZSfNevXfJD7u4CmB3yf04XqRu0Xs+NliAs65Vf9HfcNrsmUIxYxi0NNrb8zPnca9WigAD052F3h84xg==",
+  "dgSpecHash": "swOCvBDAgfNnmkAF322TepkQ4qjcupyCxvxHC3RyhfC3Fjk1it6qxPkAFFgA9Nx34czZEw7trYFIZadaGFZJaQ==",
   "success": true,
-  "projectFilePath": "C:\\Program Files (x86)\\VSProect\\PrintPlayer\\PrintPlayer.csproj",
+  "projectFilePath": "C:\\Users\\1\\Documents\\GitHub\\RendererPlayer\\PrintPlayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
