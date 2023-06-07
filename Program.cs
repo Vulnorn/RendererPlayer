@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-
-namespace ClassPlayer
+﻿namespace ClassPlayer
 {
     class Program
     {
@@ -13,7 +8,7 @@ namespace ClassPlayer
             Player player = new Player(10, 10);
 
             player.SetAvatar();
-            renderer.ShowPlayer(player);
+            renderer.DrawPlayer(player);
         }
     }
 
@@ -21,13 +16,13 @@ namespace ClassPlayer
     {
         public Player(int x, int y)
         {
-            X = x;
-            Y = y;
+            XСoordinate = x;
+            YCoordinate = y;
             Avatar="$";
         }
 
-        public int X { get; private set; }
-        public int Y { get; private set; }
+        public int XСoordinate { get; private set; }
+        public int YCoordinate { get; private set; }
         public string Avatar { get; private set; }
 
         public void SetAvatar()
@@ -44,9 +39,9 @@ namespace ClassPlayer
 
     class Renderer
     {
-        public void ShowPlayer(Player player)
+        public void DrawPlayer(Player player)
         {
-            Console.SetCursorPosition(player.X, player.Y);
+            Console.SetCursorPosition(player.XСoordinate, player.YCoordinate);
             Console.Write(player.Avatar);
         }
     }
