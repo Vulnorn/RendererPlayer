@@ -14,15 +14,15 @@
 
     class Player
     {
-        public Player(int x, int y)
+        public Player(int coordinateX, int coordinateY)
         {
-            XСoordinate = x;
-            YCoordinate = y;
+            СoordinateX = coordinateX;
+            СoordinateY = coordinateY;
             Avatar="$";
         }
 
-        public int XСoordinate { get; private set; }
-        public int YCoordinate { get; private set; }
+        public int СoordinateX { get; private set; }
+        public int СoordinateY { get; private set; }
         public string Avatar { get; private set; }
 
         public void SetAvatar()
@@ -41,7 +41,7 @@
     {
         public void DrawPlayer(Player player)
         {
-            Console.SetCursorPosition(player.XСoordinate, player.YCoordinate);
+            Console.SetCursorPosition(player.СoordinateX, player.СoordinateY);
             Console.Write(player.Avatar);
         }
     }
